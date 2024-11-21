@@ -57,7 +57,8 @@ The project involves below steps in the life-cycle and implementation.
 The app expects a dataset with customer features (e.g., Age, Income, SpendingScore, etc.). Ensure that the dataset does not include any non-numeric columns like CustomerID.
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/e2ee8b22-94db-422e-97d4-71bc9230d735)
+![image](https://github.com/user-attachments/assets/34c8b802-ed93-42a1-8e08-f8c23d32cda3)
+
 
 
 
