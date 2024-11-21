@@ -49,19 +49,19 @@ The project involves below steps in the life-cycle and implementation.
 
 1. Launch the app as described above.
 2. In the sidebar, upload your CSV file containing credit card customer data.
-3. Use the slider in the sidebar to choose the number of clusters (k).
-4. Visualize the clustering results using various plots such as the K-Elbow and Silhouette score.
-5. View the customer segmentation on a scatter plot.
+3. Visualize the clustering results using various plots .
+4. View the customer segmentation on a scatter plot.
 
 ## Sample Dataset
 
 The app expects a dataset with customer features (e.g., Age, Income, SpendingScore, etc.). Ensure that the dataset does not include any non-numeric columns like CustomerID.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/e2ee8b22-94db-422e-97d4-71bc9230d735)
 
-Include screenshots of the app in action here.
 
 
 ## Acknowledgments
+Link to the streamlit app
 
-- [Streamlit](https://streamlit.io/)
+https://creditcardcustomersegmentation-hphcsy7wpzscpys2hj4bo8.streamlit.app/
